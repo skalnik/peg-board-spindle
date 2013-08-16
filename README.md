@@ -1,4 +1,6 @@
-# Peg Board Spool Holder
+# Peg Board Spindle
 
-A spool holder that mounts on a peg board. Pegs are based on the Peg Board
-Hanger by sideritis, available on [Thingiverse](http://www.thingiverse.com/thing:36565)
+This is a spindle for plastic filament that mounts onto a peg board
+
+Pegs are based on the Peg Board Hanger by sideritis, available on
+[Thingiverse](http://www.thingiverse.com/thing:36565)
